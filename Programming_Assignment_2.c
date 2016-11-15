@@ -1,7 +1,7 @@
 /*
  Stephanie Caston
  ITCS 3146
- Programming Assignment 2
+ Programming Assignment 2 - The objective of this program is to to read in a text file and format the text so that each line is exactly even. 
  */
 
 #include <stdio.h>
